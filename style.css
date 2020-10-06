@@ -1,0 +1,9 @@
+body {
+        background: url('img/c.jpg')no-repeat center center/cover;
+        opacity: 0.98;
+    }
+.container{
+        margin: auto;
+        background: url('img/g.jpg')no-repeat center center/cover;
+        opacity: 0.98;
+        }
