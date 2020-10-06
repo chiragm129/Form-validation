@@ -1,2 +1,2 @@
 # Form-validation
-this is from validation using Regular Expression
+this is form validation using Regular Expression
